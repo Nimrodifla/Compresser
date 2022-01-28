@@ -1,0 +1,7 @@
+﻿  Compressor.cpp
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(19,16): warning C4018: '<': signed/unsigned mismatch
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(93,27): warning C4018: '>=': signed/unsigned mismatch
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(159,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(159,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CompressingAlgorithem.vcxproj -> D:\VS Projects\CompressingAlgorithem\Debug\CompressingAlgorithem.exe

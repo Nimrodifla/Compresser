@@ -1,7 +1,17 @@
 ﻿  Compressor.cpp
-D:\VS Projects\CompressingAlgorithem\Compressor.cpp(19,16): warning C4018: '<': signed/unsigned mismatch
-D:\VS Projects\CompressingAlgorithem\Compressor.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
-D:\VS Projects\CompressingAlgorithem\Compressor.cpp(93,27): warning C4018: '>=': signed/unsigned mismatch
-D:\VS Projects\CompressingAlgorithem\Compressor.cpp(159,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-D:\VS Projects\CompressingAlgorithem\Compressor.cpp(159,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(24,16): warning C4018: '<': signed/unsigned mismatch
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(103,17): warning C4018: '<': signed/unsigned mismatch
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(124,18): warning C4018: '<': signed/unsigned mismatch
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(143,19): warning C4018: '<': signed/unsigned mismatch
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(176,20): warning C4018: '<': signed/unsigned mismatch
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(179,27): warning C4018: '>=': signed/unsigned mismatch
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(234,21): warning C4018: '>': signed/unsigned mismatch
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(247,17): warning C4018: '<': signed/unsigned mismatch
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(253,18): warning C4018: '<': signed/unsigned mismatch
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(296,21): warning C4018: '<': signed/unsigned mismatch
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(339,20): warning C4018: '<': signed/unsigned mismatch
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(346,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS Projects\CompressingAlgorithem\Compressor.cpp(346,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
   CompressingAlgorithem.vcxproj -> D:\VS Projects\CompressingAlgorithem\Debug\CompressingAlgorithem.exe

@@ -6,7 +6,7 @@
 class CharNumber
 {
 private:
-	int maxValue = 255;
+	//int maxValue = 255;
 public:
 	static const int maxNumber = 255;
 	static char fromNumber(int wholeNumber)
@@ -17,7 +17,7 @@ public:
 		}
 		else
 		{
-			throw std::exception(("Number can only be between 0 and " + std::to_string(maxNumber)).c_str());
+			throw std::exception((std::string(__FUNCTION__) + (" Number can only be between 0 and " + std::to_string(maxNumber))).c_str());
 		}
 	}
 
@@ -30,7 +30,7 @@ public:
 		}
 		else
 		{
-			throw std::exception(("Number can only be between 0 and " + std::to_string(maxNumber)).c_str());
+			throw std::exception((std::string(__FUNCTION__) + (" Number can only be between 0 and " + std::to_string(maxNumber))).c_str());
 		}
 	}
 };
